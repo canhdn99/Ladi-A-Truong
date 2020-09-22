@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sitokata.detoxcantay.online	TRUE	/botcantayf99	FALSE	1999999999	LADI_FORM_SUBMIT	0
+sitokata.detoxcantay.online	TRUE	/botcantayf99	FALSE	1999999999	LADI_PAGE_VIEW	1
+sitokata.detoxcantay.online	TRUE	/POST	FALSE	1999999999	LADI_FORM_SUBMIT	0
+sitokata.detoxcantay.online	TRUE	/POST	FALSE	1999999999	LADI_PAGE_VIEW	2
+sitokata.detoxcantay.online	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	50535498-6c90-4310-73f0-ec6bbc15d8d8
+.ladicdn.com	TRUE	/	FALSE	1999999999	__cfduid	db5318a69cf16612f0fbdde19024751181600741927
+w.ladicdn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+sitokata.detoxcantay.online	TRUE	/	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+sitokata.detoxcantay.online	TRUE	/	FALSE	1999999999	LADI_PAGE_VIEW_PATH	2
+
